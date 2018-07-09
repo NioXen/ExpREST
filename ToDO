@@ -1,0 +1,9 @@
+✔ Implement Category class @done(18-06-30 19:00)
+✔ Implement Achievement class @done(18-06-30 21:19)
+✔ Implement Criteria class @done(18-06-30 21:09)
+✔ Implement Item class @done(18-06-30 19:04)
+
+Logic
+☐ Parse the objects
+☐ Transfer data into ORM objects
+☐ Re-emit ORM objects into stream for commit
