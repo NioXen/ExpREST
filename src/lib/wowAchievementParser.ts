@@ -16,6 +16,8 @@ class WoWAchievementInterpreter {
             const cat = new Category(data);
             callback(null, cat);
         }));
+
+        console.log("test");
     }
 }
 
